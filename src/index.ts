@@ -1,2 +1,3 @@
-console.log("Hello World")
-let a: number = 5;
+let age: number = 50;
+if (age < 50) 
+    age += 10;
